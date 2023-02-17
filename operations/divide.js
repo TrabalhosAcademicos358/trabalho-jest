@@ -8,7 +8,7 @@ function divide(a, b) {
             "Only numbers can be divided!"
         );
     
-    return a * b;
+    return a / b;
 }
 
 module.exports = divide;
