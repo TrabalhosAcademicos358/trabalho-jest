@@ -20,4 +20,4 @@ npm i
 
 - Daniel de Oliveira Sousa
 - Pedro Pereira de Morais Júnior
-- Bruno
+- Bruno Lacerda Nogueira
