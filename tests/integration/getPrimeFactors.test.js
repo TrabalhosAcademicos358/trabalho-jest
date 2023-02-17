@@ -1,6 +1,6 @@
 const getPrimeFactors = require("../../getPrimeFactors");
 
-describe("Tests for getPrimeFactors function", () => {
+describe("Integration tests for getPrimeFactors function", () => {
 
     it("Doesn't accept non numeric values", () => {
         expect(() => (
